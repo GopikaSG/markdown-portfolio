@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+*Hamlet
+*The Monk who sold his Ferrari
+ *The Kite Runner
+ *Who will cry when you die
